@@ -1,0 +1,35 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "AddonSchemaManager",
+      "UId": "f0fc5149-ec82-486d-8228-ebbbaba8bb4c",
+      "A2": "BertG_Entity_IdeaActivityRelatedPage",
+      "A5": "6adf3f2e-fc09-4eee-b7e2-f9df020a9cc9",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "064bbae3-0690-4604-b410-d217ed1f9d83",
+      "B8": "8.3.1.4481",
+      "AD1": "5d0a4e3f-7ace-4282-9987-4b027cd79c3d",
+      "AD2": "EntitySchemaManager",
+      "AD3": "RelatedPage",
+      "AD5": "3a2d6f51-1bfc-4c17-aacb-b53de4866b7c",
+      "AD4": {
+  "Pages": [
+    {
+      "UId": "d99f145f-6bae-936d-3ccf-5e302a6476e3",
+      "PageSchemaUId": "ab3833f0-bdfd-4fe4-9f68-d7481131c7c5",
+      "IsDefault": true,
+      "IsSspDefault": false,
+      "Actions": {
+        "Add": false
+      },
+      "Role": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+      "TypeColumnValue": null
+    }
+  ],
+  "TypeColumnUId": null
+}
+    }
+  }
+}

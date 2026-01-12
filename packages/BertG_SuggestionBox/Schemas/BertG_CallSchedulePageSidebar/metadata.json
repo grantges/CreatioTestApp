@@ -1,0 +1,35 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "AddonSchemaManager",
+      "UId": "dd7e5e6e-50ab-4637-8847-69ab78222f6c",
+      "A2": "BertG_CallSchedulePageSidebar",
+      "A5": "6adf3f2e-fc09-4eee-b7e2-f9df020a9cc9",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "064bbae3-0690-4604-b410-d217ed1f9d83",
+      "B8": "8.3.1.4481",
+      "AD1": "c1cfb5a8-a3f8-4c56-ae71-a99962b5d4fe",
+      "AD2": "ClientUnitSchemaManager",
+      "AD3": "Sidebar",
+      "AD5": "3a2d6f51-1bfc-4c17-aacb-b53de4866b7c",
+      "AD4": {
+  "Sidebars": [
+    {
+      "UId": "6d6b2846-89a2-1e2c-a24f-347560ebc3f9",
+      "Enabled": true,
+      "Code": "BertG_CallSchedulePageSidebar",
+      "Icon": "call-button-icon",
+      "GroupCode": null,
+      "Index": 0,
+      "AdminOperationCode": null,
+      "AutoHideNotificationMark": true,
+      "AllowSizeAdjustment": false,
+      "FeatureCode": null
+    }
+  ]
+}
+    }
+  }
+}

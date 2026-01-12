@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "bda9d40f-1792-4a34-b64e-c9a8f345997a",
+    "Name": "BertG_Page_jce279s",
+    "ModifiedOnUtc": "\/Date(1766246340000)\/",
+    "Parent": {
+      "UId": "ecdcc8ff-272c-4957-9381-7d74ce17e140",
+      "Name": "BaseMiniPageTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Select Approver",
+    "DependsOn": []
+  }
+}

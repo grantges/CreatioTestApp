@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Idea: Send Report Error" />
+			<Item Name="LocalizableStrings.Button_WarningIcon_caption.Value" Value="Icon" />
+			<Item Name="LocalizableStrings.Label_ocmkdae_caption.Value" Value="This Idea does not have any associated expenses. In order to generate and send a report, it must have at least one related expense." />
+			<Item Name="LocalizableStrings.Label_wad6m5h_caption.Value" Value="Unable to send report" />
+			<Item Name="LocalizableStrings.SaveButton_caption.Value" Value="Close" />
+			<Item Name="Parameters.7770ef68-8d7f-b3f6-84b2-94f4f4db0163.Caption" Value="Rich text 1" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "2f1560f5-630a-4f0b-8e36-9beb393c4140",
+    "Name": "BertG_Desktop_gd40eti",
+    "ModifiedOnUtc": "\/Date(1767207959000)\/",
+    "Parent": {
+      "UId": "fbc98c89-0691-479c-bc25-59c11ac2365f",
+      "Name": "CentralAreaDesktopTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Ideas Desktop",
+    "DependsOn": []
+  }
+}

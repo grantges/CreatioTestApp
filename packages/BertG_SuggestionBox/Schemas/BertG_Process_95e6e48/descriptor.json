@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "83dbe85c-827c-49c8-8962-fe2c53836fec",
+    "Name": "BertG_Process_95e6e48",
+    "ModifiedOnUtc": "\/Date(1767279647000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Schedule Activities (Daily Calls)",
+    "DependsOn": []
+  }
+}

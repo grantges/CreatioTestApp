@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "2b09a6bb-84bb-4c0d-a23d-34f642522dcb",
+    "Name": "BertG_Process_da4a0e1BertG_SuggestionBox1",
+    "ModifiedOnUtc": "\/Date(1767198257000)\/",
+    "Parent": {
+      "UId": "1bdedfb5-7a50-4d90-8671-42a483eafcd6",
+      "Name": "BertG_Process_da4a0e1"
+    },
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Idea:: Approval Required",
+    "DependsOn": []
+  }
+}

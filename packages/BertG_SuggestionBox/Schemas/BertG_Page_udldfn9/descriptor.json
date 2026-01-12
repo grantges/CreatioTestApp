@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "00a7fa0e-08a2-4a97-b95b-50669f32d7c3",
+    "Name": "BertG_Page_udldfn9",
+    "ModifiedOnUtc": "\/Date(1767204051000)\/",
+    "Parent": {
+      "UId": "3b2e117f-8c6b-4ca5-80a2-7ebb497cddf9",
+      "Name": "PageWithTabsFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Idea edit page",
+    "DependsOn": []
+  }
+}

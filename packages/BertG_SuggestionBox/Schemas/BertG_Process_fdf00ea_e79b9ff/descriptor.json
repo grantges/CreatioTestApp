@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "98d1e710-7649-48a9-95fd-b30030b6eaf8",
+    "Name": "BertG_Process_fdf00ea_e79b9ff",
+    "ModifiedOnUtc": "\/Date(1766338960000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "On Update Idea Expense",
+    "DependsOn": []
+  }
+}

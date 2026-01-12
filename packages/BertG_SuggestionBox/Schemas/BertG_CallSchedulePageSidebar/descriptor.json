@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "dd7e5e6e-50ab-4637-8847-69ab78222f6c",
+    "Name": "BertG_CallSchedulePageSidebar",
+    "ModifiedOnUtc": "\/Date(1767277217000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Call Scheduler (Sidebar)",
+    "DependsOn": []
+  }
+}

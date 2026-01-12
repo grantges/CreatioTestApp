@@ -1,0 +1,15 @@
+= MetaData.Schema.UId "f7c5b4d9-4034-4931-aa66-c75c5c33baba"
++ MetaData.Schema.B2 {
+  "UId": "ae860848-79e7-4ec1-b0f3-b6d816b8c136",
+  "A2": "BertG_IdeaSectionTitle",
+  "A3": "f7c5b4d9-4034-4931-aa66-c75c5c33baba",
+  "A4": "f7c5b4d9-4034-4931-aa66-c75c5c33baba",
+  "A5": "6adf3f2e-fc09-4eee-b7e2-f9df020a9cc9"
+}
+~ MetaData.Schema.B2 ["ae860848-79e7-4ec1-b0f3-b6d816b8c136","f9444d24-5e60-45f6-9554-6052000f08f7","92e36358-22d2-4732-8e1e-21e008c9b198","5b5a4e75-72d4-46e8-ac07-5b20121ad5ba","d91abe07-d8d1-47e4-9723-2cfc31787fa9","15c475ea-fb45-5a8e-60b9-dc0a5bcb3189"]
+= MetaData.Schema.B6 "064bbae3-0690-4604-b410-d217ed1f9d83"
+= MetaData.Schema.B8 "8.3.1.4481"
+- MetaData.Schema.HD4
+- MetaData.Schema.HD12
++ MetaData.Schema.B7 true
+= MetaData.Schema.HD1 "2a46e6b2-9ff1-4b56-9e6b-fe3cb1afc109"

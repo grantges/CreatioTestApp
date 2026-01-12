@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "5d0a4e3f-7ace-4282-9987-4b027cd79c3d",
+    "Name": "BertG_Entity_IdeaActivity",
+    "ModifiedOnUtc": "\/Date(1767155325000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Idea Activity",
+    "DependsOn": []
+  }
+}

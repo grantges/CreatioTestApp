@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Idea Activity" />
+			<Item Name="Columns.BertG_Description.Caption" Value="Description" />
+			<Item Name="Columns.BertG_DueDate.Caption" Value="Due Date" />
+			<Item Name="Columns.BertG_IdeaActivityOwner.Caption" Value="Owner" />
+			<Item Name="Columns.BertG_IdeaId.Caption" Value="Idea" />
+			<Item Name="Columns.BertG_Summary.Caption" Value="Summary" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1253567487.Caption" Value="Pool 14675678567" />
+		</Items>
+	</Group>
+</Resources>

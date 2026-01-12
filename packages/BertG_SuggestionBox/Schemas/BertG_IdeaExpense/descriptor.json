@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "58946e1a-78ea-4419-8445-3b59744cd398",
+    "Name": "BertG_IdeaExpense",
+    "ModifiedOnUtc": "\/Date(1766330128000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Idea Expense",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,34 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "0e3d3857-2203-40e4-b1ec-8e972007650e",
+          "Value": "e793f26b-e2fb-4c8d-a2aa-cd10438954ed",
+          "DisplayValue": "Suggestion Box Ideas"
+        },
+        {
+          "SchemaColumnUId": "991cf5ef-ffb8-49a5-add3-074a595f6c43",
+          "Value": "5f4edc56-b39c-4596-b1bd-6be0f535c8f6",
+          "DisplayValue": "Ideas"
+        },
+        {
+          "SchemaColumnUId": "9928edec-4272-425a-93bb-48743fee4b04",
+          "Value": "\/Date(1763639454115+0200)\/"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "05cc62a2-c003-4dbb-aa31-2714c5858dea"
+        },
+        {
+          "SchemaColumnUId": "bd12ea8e-2bc2-42bf-925a-3ab766cc0b9f",
+          "Value": 111
+        },
+        {
+          "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+          "Value": "\/Date(1763639454115+0200)\/"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+<Project>
+	<ItemGroup Label="Entity Files" Condition="'$(PkgPath)' != ''">
+		<Compile Include="$(PkgPath)/BertG_SuggestionBox/Schemas/BertG_Entity_IdeaActivity/BertG_Entity_IdeaActivity.cs" Condition="Exists('$(PkgPath)/BertG_SuggestionBox/Schemas/BertG_Entity_IdeaActivity/BertG_Entity_IdeaActivity.cs')" />
+		<Compile Include="$(PkgPath)/BertG_SuggestionBox/Schemas/BertG_Idea/BertG_Idea.cs" Condition="Exists('$(PkgPath)/BertG_SuggestionBox/Schemas/BertG_Idea/BertG_Idea.cs')" />
+		<Compile Include="$(PkgPath)/BertG_SuggestionBox/Schemas/BertG_IdeaExpense/BertG_IdeaExpense.cs" Condition="Exists('$(PkgPath)/BertG_SuggestionBox/Schemas/BertG_IdeaExpense/BertG_IdeaExpense.cs')" />
+		<Compile Include="$(PkgPath)/BertG_SuggestionBox/Schemas/BertG_IdeaScore/BertG_IdeaScore.cs" Condition="Exists('$(PkgPath)/BertG_SuggestionBox/Schemas/BertG_IdeaScore/BertG_IdeaScore.cs')" />
+		<Compile Include="$(PkgPath)/BertG_SuggestionBox/Schemas/BertG_IdeaSolution/BertG_IdeaSolution.cs" Condition="Exists('$(PkgPath)/BertG_SuggestionBox/Schemas/BertG_IdeaSolution/BertG_IdeaSolution.cs')" />
+		<Compile Include="$(PkgPath)/BertG_SuggestionBox/Schemas/BertG_IdeaStatus/BertG_IdeaStatus.cs" Condition="Exists('$(PkgPath)/BertG_SuggestionBox/Schemas/BertG_IdeaStatus/BertG_IdeaStatus.cs')" />
+		<Compile Include="$(PkgPath)/BertG_SuggestionBox/Schemas/BertG_IdeaType/BertG_IdeaType.cs" Condition="Exists('$(PkgPath)/BertG_SuggestionBox/Schemas/BertG_IdeaType/BertG_IdeaType.cs')" />
+		<Compile Include="$(PkgPath)/BertG_SuggestionBox/Schemas/Contact/Contact.cs" Condition="Exists('$(PkgPath)/BertG_SuggestionBox/Schemas/Contact/Contact.cs')" />
+	</ItemGroup>
+</Project>

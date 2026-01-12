@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "ab3833f0-bdfd-4fe4-9f68-d7481131c7c5",
+    "Name": "BertG_Page_br66k1t",
+    "ModifiedOnUtc": "\/Date(1767155201000)\/",
+    "Parent": {
+      "UId": "ecdcc8ff-272c-4957-9381-7d74ce17e140",
+      "Name": "BaseMiniPageTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Idea Activity modal page",
+    "DependsOn": []
+  }
+}

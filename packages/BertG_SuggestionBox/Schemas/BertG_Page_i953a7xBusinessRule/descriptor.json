@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "15d15403-25e0-4ab5-8aa8-bcf732f31d09",
+    "Name": "BertG_Page_i953a7xBusinessRule",
+    "ModifiedOnUtc": "\/Date(1766938637000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Idea: Send Report Error (Business rules)",
+    "DependsOn": []
+  }
+}

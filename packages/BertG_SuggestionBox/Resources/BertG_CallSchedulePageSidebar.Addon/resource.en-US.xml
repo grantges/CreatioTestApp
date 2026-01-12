@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Sidebars.6d6b2846-89a2-1e2c-a24f-347560ebc3f9.Title" Value="Call Scheduler" />
+			<Item Name="Caption" Value="Call Scheduler (Sidebar)" />
+		</Items>
+	</Group>
+</Resources>

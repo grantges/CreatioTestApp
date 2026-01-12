@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "8acc4b95-6cc3-4830-8ce5-e7ed5d373053",
+    "Name": "BertG_SuggestionBox_ListPage",
+    "ModifiedOnUtc": "\/Date(1767204328000)\/",
+    "Parent": {
+      "UId": "b7b898d0-8c77-4953-c097-23fa6800da02",
+      "Name": "ListPageV3Template"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Idea list page",
+    "DependsOn": []
+  }
+}

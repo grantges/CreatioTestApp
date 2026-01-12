@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "e74e6560-3fd2-46a8-bfdc-1ff948be22c9",
+    "Name": "BertG_Process_95e6e48BertG_SuggestionBox1",
+    "ModifiedOnUtc": "\/Date(1767367496000)\/",
+    "Parent": {
+      "UId": "83dbe85c-827c-49c8-8962-fe2c53836fec",
+      "Name": "BertG_Process_95e6e48"
+    },
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Schedule Activities (Daily Calls)",
+    "DependsOn": []
+  }
+}

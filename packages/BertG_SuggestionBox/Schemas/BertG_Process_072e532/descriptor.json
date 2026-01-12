@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "84fc6471-d812-4b4c-a41a-a11e1d655ed0",
+    "Name": "BertG_Process_072e532",
+    "ModifiedOnUtc": "\/Date(1767160684000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Send Idea Expense Report to Owner",
+    "DependsOn": []
+  }
+}

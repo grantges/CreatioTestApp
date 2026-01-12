@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "4b88b282-0afe-44bd-a346-984ae6982487",
+    "Name": "BertG_IdeaScore",
+    "ModifiedOnUtc": "\/Date(1765568055000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Idea Score",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "162ef993-1bb2-4546-a8b0-465d57691f99",
+    "Name": "BertG_IdeaStatusBusinessRule",
+    "ModifiedOnUtc": "\/Date(1767207981000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Idea Stage (Business rules)",
+    "DependsOn": []
+  }
+}

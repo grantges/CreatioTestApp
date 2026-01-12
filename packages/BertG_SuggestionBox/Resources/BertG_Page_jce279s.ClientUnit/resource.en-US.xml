@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Select Approver" />
+			<Item Name="LocalizableStrings.addRecord_5aahq3k_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.ComboBox_enlc5be_label.Value" Value="Suggestion Approver" />
+			<Item Name="LocalizableStrings.Label_vtscd60_caption.Value" Value="Select an Approver " />
+		</Items>
+	</Group>
+</Resources>

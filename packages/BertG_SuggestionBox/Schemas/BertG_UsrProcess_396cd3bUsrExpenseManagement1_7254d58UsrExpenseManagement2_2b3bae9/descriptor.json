@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "0e231e44-adb6-4db2-9338-d192b3c5fdab",
+    "Name": "BertG_UsrProcess_396cd3bUsrExpenseManagement1_7254d58UsrExpenseManagement2_2b3bae9",
+    "ModifiedOnUtc": "\/Date(1766335350000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Update Expense Item - Copy",
+    "DependsOn": []
+  }
+}

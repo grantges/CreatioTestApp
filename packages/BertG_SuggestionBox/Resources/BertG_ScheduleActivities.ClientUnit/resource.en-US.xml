@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Schedule Activities" />
+			<Item Name="LocalizableStrings.addRecord_7g3tgvm_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_xd0q8x4_caption.Value" Value="Add new" />
+			<Item Name="Parameters.2554dafa-6bbf-d008-9e90-e12d26afc615.Caption" Value="Activity Contact" />
+			<Item Name="Parameters.32719a56-d447-2356-ad4e-50d8de8b9d73.Caption" Value="Activity Owner" />
+			<Item Name="Parameters.bc0eadb8-09f6-793f-aeab-4c505d1cbbf1.Caption" Value="Number of Activities" />
+		</Items>
+	</Group>
+</Resources>

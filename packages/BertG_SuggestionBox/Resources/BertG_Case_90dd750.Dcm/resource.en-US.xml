@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Suggestion Box Workflow" />
+			<Item Name="NotificationCaption.Caption" Value="Process instance caption" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+			<Item Name="Stages.Stage1.Caption" Value="New" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.Caption" Value="Confirm Submitted Idea" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.Account.Caption" Value="Account" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.ActivityCategory.Caption" Value="Category" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.ActivityCategory.DisplayValue" Value="To do" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.ActivityPriority.Caption" Value="Priority" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.ActivityPriority.DisplayValue" Value="ab96fa02-7fe6-df11-971b-001d60e938c6" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.ActivityResult.Caption" Value="Result of activity" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.Application.Caption" Value="Application" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.BertG_BertG_Idea.Caption" Value="Idea" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.BertG_BertG_Idea.DisplayValue" Value="[#Main record.Id#]" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.Case.Caption" Value="Case" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.Change.Caption" Value="Change" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.ConfItem.Caption" Value="Configuration item" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.Contact.Caption" Value="Contact" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.Contract.Caption" Value="Contract" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.CurrentActivityId.Caption" Value="Task Id" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.Document.Caption" Value="Document" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.Duration.Caption" Value="Duration" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.Duration.DisplayValue" Value="20" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.DurationPeriod.Caption" Value="Duration (period)" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.DurationPeriod.DisplayValue" Value="0" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.Event.Caption" Value="Event" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.ExecutionContext.Caption" Value="Execution context" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.FinApplication.Caption" Value="Application" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.Incident.Caption" Value="Incident" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.InformationOnStep.Caption" Value="Information on step" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.InformationOnStep.DisplayValue" Value="Confirm the submitted idea before you can proceed. You can confirm the idea in the case you created." />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.InformationOnStep.Value" Value="Confirm the submitted idea before you can proceed. You can confirm the idea in the case you created." />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.Invoice.Caption" Value="Invoice" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.IsActivityCompleted.Caption" Value="Activity completed" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.IsActivityCompleted.DisplayValue" Value="false" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.KnowledgeBase.Caption" Value="Knowledge base article" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.Lead.Caption" Value="Lead" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.Listing.Caption" Value="Listings" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.OmniChat.Caption" Value="Chat" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.Opportunity.Caption" Value="Opportunity" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.Order.Caption" Value="Order" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.OwnerId.Caption" Value="Owner" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.OwnerId.DisplayValue" Value="[#Main record.Owner#]" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.Problem.Caption" Value="Problem" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.Project.Caption" Value="Project" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.Property.Caption" Value="Properties" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.QueueItem.Caption" Value="Queue item" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.Recommendation.Caption" Value="Recommendation" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.Recommendation.DisplayValue" Value="&quot;Confirm Idea: &quot;+[#Main record.Brief Description#]" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.Release.Caption" Value="Release" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.RemindBefore.Caption" Value="Remind owner in advance" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.RemindBefore.DisplayValue" Value="0" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.RemindBeforePeriod.Caption" Value="Remind owner in advance (period)" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.RemindBeforePeriod.DisplayValue" Value="0" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.Requests.Caption" Value="Request" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.RoleId.Caption" Value="Role" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.ShowExecutionPage.Caption" Value="Show execution page automatically" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.ShowExecutionPage.DisplayValue" Value="true" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.ShowInScheduler.Caption" Value="Show in calendar" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.ShowInScheduler.DisplayValue" Value="false" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.StartIn.Caption" Value="Start executing in" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.StartIn.DisplayValue" Value="0" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.StartInPeriod.Caption" Value="Start executing in (period)" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.StartInPeriod.DisplayValue" Value="0" />
+			<Item Name="Stages.Stage1.Elements.DcmElement1.ProcessFlowElement.Parameters.UsrUsrExpenseReport.Caption" Value="Expense Report" />
+			<Item Name="Stages.Stage2.Caption" Value="Approval" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.Caption" Value="Notify Approver" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.ApproverId.Caption" Value="Approver Id" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.Idea.Caption" Value="Idea" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.Idea.DisplayValue" Value="[#Main record.Id#]" />
+			<Item Name="Stages.Stage2.Elements.DcmElement6.Caption" Value="Change Edit rights" />
+			<Item Name="Stages.Stage2.Elements.DcmElement6.ProcessFlowElement.Parameters.AddRights.Caption" Value="List of rights to add" />
+			<Item Name="Stages.Stage2.Elements.DcmElement6.ProcessFlowElement.Parameters.AddRights.DisplayValue" Value="[]" />
+			<Item Name="Stages.Stage2.Elements.DcmElement6.ProcessFlowElement.Parameters.ConsiderTimeInFilter.Caption" Value="Consider time in the filter" />
+			<Item Name="Stages.Stage2.Elements.DcmElement6.ProcessFlowElement.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="Stages.Stage2.Elements.DcmElement6.ProcessFlowElement.Parameters.DataSourceFilters.Caption" Value="Object meets condition" />
+			<Item Name="Stages.Stage2.Elements.DcmElement6.ProcessFlowElement.Parameters.DeleteRights.Caption" Value="List of rights to delete" />
+			<Item Name="Stages.Stage2.Elements.DcmElement6.ProcessFlowElement.Parameters.DeleteRights.DisplayValue" Value="[{Id:&quot;b5cc847b-2b21-437f-be18-8f3b0775eb33&quot;,Name:&quot;Employee&quot;,CanRead:false,CanEdit:true,CanDelete:true,Source:&quot;3&quot;,Grantee:&quot;Employee&quot;,Value:&quot;[#ColumnValue.{0d206af0-c15b-48e2-bfda-053f939c824d}.{c878eaf3-6141-07e3-611e-b295f54c4b8a}#]&quot;}]" />
+			<Item Name="Stages.Stage2.Elements.DcmElement6.ProcessFlowElement.Parameters.Employee1.Caption" Value="Employee1" />
+			<Item Name="Stages.Stage2.Elements.DcmElement6.ProcessFlowElement.Parameters.Employee1.DisplayValue" Value="[#Main record.Owner#]" />
+			<Item Name="Stages.Stage2.Elements.DcmElement6.ProcessFlowElement.Parameters.EntitySchemaUId.Caption" Value="Object" />
+			<Item Name="Stages.Stage2.Elements.DcmElement6.ProcessFlowElement.Parameters.EntitySchemaUId.DisplayValue" Value="0d206af0-c15b-48e2-bfda-053f939c824d" />
+			<Item Name="Stages.Stage3.Caption" Value="Implementation" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.Caption" Value="Score Idea Solution" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.Account.Caption" Value="Account" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.ActivityCategory.Caption" Value="Category" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.ActivityCategory.DisplayValue" Value="f51c4643-58e6-df11-971b-001d60e938c6" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.ActivityPriority.Caption" Value="Priority" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.ActivityPriority.DisplayValue" Value="ab96fa02-7fe6-df11-971b-001d60e938c6" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.ActivityResult.Caption" Value="Result of activity" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.ActivitySchemaUId.Caption" Value="Unique identifier of &quot;Activity&quot; object schema" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.BertG_BertG_Idea.Caption" Value="Idea" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.BertG_BertG_Idea.DisplayValue" Value="[#Main record.Id#]" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.Case.Caption" Value="Case" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.Change.Caption" Value="Change" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.ConfItem.Caption" Value="Configuration item" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.Contact.Caption" Value="Contact" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.Contact.DisplayValue" Value="[#Main record.Author#]" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.Contract.Caption" Value="Contract" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.CreateActivity.Caption" Value="Create activity" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.CreateActivity.DisplayValue" Value="true" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.CurrentActivityId.Caption" Value="Unique identifier of activity" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.DataSourceFilters.Caption" Value="Data source filters" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.DecisionalColumnMetaPath.Caption" Value="Column" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.Document.Caption" Value="Document" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.Duration.Caption" Value="Duration" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.Duration.DisplayValue" Value="5" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.DurationPeriod.Caption" Value="Duration (period)" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.DurationPeriod.DisplayValue" Value="0" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.EditMode.Caption" Value="Page edit mode" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.Event.Caption" Value="Event" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.ExecutedMode.Caption" Value="Consider completed" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.ExecutionContext.Caption" Value="Execution context" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.GenerateDecisionsFromColumn.Caption" Value="Results list is generated by column" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.GenerateDecisionsFromColumn.DisplayValue" Value="false" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.Incident.Caption" Value="Incident" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.InformationOnStep.Caption" Value="Information on step" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.InformationOnStep.DisplayValue" Value="Score and comment on the solution under Solutions Tab" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.InformationOnStep.Value" Value="Score and comment on the solution under Solutions Tab" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.Invoice.Caption" Value="Invoice" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.IsActivityCompleted.Caption" Value="Activity completed" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.IsActivityCompleted.DisplayValue" Value="false" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.IsMatchConditions.Caption" Value="If object meets the following conditions" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.IsReexecution.Caption" Value="Repeated completion" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.KnowledgeBase.Caption" Value="Knowledge base article" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.Lead.Caption" Value="Lead" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.Listing.Caption" Value="Listing" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.ObjectSchemaId.Caption" Value="Object" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.OmniChat.Caption" Value="Chat" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.Opportunity.Caption" Value="Opportunity" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.Order.Caption" Value="Order" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.OwnerId.Caption" Value="Owner" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.OwnerId.DisplayValue" Value="[#Main record.Author#]" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.PageSchemaId.Caption" Value="Page" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.PageTypeUId.Caption" Value="Unique identifier of page type" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.Problem.Caption" Value="Problem" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.Project.Caption" Value="Project" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.Property.Caption" Value="Property" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.Recommendation.Caption" Value="Recommendation" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.Recommendation.DisplayValue" Value="Score Idea Solution" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.Recommendation.Value" Value="Score Idea Solution" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.RecordColumnValues.Caption" Value="Default values" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.RecordId.Caption" Value="Record Id" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.RecordId.DisplayValue" Value="[#Main record.Id#]" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.Release.Caption" Value="Release" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.RemindBefore.Caption" Value="Remind owner in advance" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.RemindBefore.DisplayValue" Value="0" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.RemindBeforePeriod.Caption" Value="Remind owner in advance (period)" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.RemindBeforePeriod.DisplayValue" Value="0" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.Requests.Caption" Value="Request" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.ResultParameter.Caption" Value="Diverging parameter" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.RoleId.Caption" Value="Role" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.ShowExecutionPage.Caption" Value="Show execution page automatically" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.ShowExecutionPage.DisplayValue" Value="true" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.ShowInScheduler.Caption" Value="Show in calendar" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.ShowInScheduler.DisplayValue" Value="false" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.StartIn.Caption" Value="Start executing in" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.StartIn.DisplayValue" Value="0" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.StartInPeriod.Caption" Value="Start executing in (period)" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.StartInPeriod.DisplayValue" Value="0" />
+			<Item Name="Stages.Stage3.Elements.DcmElement4.ProcessFlowElement.Parameters.UsrUsrExpenseReport.Caption" Value="Expense Report" />
+			<Item Name="Stages.Stage3.Elements.DcmElement7.Caption" Value="Allow User Edit Rights" />
+			<Item Name="Stages.Stage3.Elements.DcmElement7.ProcessFlowElement.Parameters.AddRights.Caption" Value="List of rights to add" />
+			<Item Name="Stages.Stage3.Elements.DcmElement7.ProcessFlowElement.Parameters.AddRights.DisplayValue" Value="[{Id:&quot;f531a0fb-af37-40fc-8bd7-4506cdc3c6bf&quot;,Name:&quot;Employee&quot;,CanRead:true,CanEdit:true,CanDelete:true,Source:&quot;3&quot;,Grantee:&quot;Employee&quot;,Value:&quot;[#ColumnValue.{0d206af0-c15b-48e2-bfda-053f939c824d}.{c878eaf3-6141-07e3-611e-b295f54c4b8a}#]&quot;,OperationRightLevel:&quot;1&quot;}]" />
+			<Item Name="Stages.Stage3.Elements.DcmElement7.ProcessFlowElement.Parameters.ConsiderTimeInFilter.Caption" Value="Consider time in the filter" />
+			<Item Name="Stages.Stage3.Elements.DcmElement7.ProcessFlowElement.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="Stages.Stage3.Elements.DcmElement7.ProcessFlowElement.Parameters.DataSourceFilters.Caption" Value="Object meets condition" />
+			<Item Name="Stages.Stage3.Elements.DcmElement7.ProcessFlowElement.Parameters.DeleteRights.Caption" Value="List of rights to delete" />
+			<Item Name="Stages.Stage3.Elements.DcmElement7.ProcessFlowElement.Parameters.DeleteRights.DisplayValue" Value="[]" />
+			<Item Name="Stages.Stage3.Elements.DcmElement7.ProcessFlowElement.Parameters.Employee1.Caption" Value="Employee1" />
+			<Item Name="Stages.Stage3.Elements.DcmElement7.ProcessFlowElement.Parameters.Employee1.DisplayValue" Value="[#Main record.Owner#]" />
+			<Item Name="Stages.Stage3.Elements.DcmElement7.ProcessFlowElement.Parameters.EntitySchemaUId.Caption" Value="Object" />
+			<Item Name="Stages.Stage3.Elements.DcmElement7.ProcessFlowElement.Parameters.EntitySchemaUId.DisplayValue" Value="0d206af0-c15b-48e2-bfda-053f939c824d" />
+			<Item Name="Stages.Stage4.Caption" Value="Implemented" />
+			<Item Name="Stages.Stage5.Caption" Value="Closed" />
+			<Item Name="Stages.Stage6.Caption" Value="Revision" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.Caption" Value="Review Idea for Revision" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.Account.Caption" Value="Account" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.ActivityCategory.Caption" Value="Category" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.ActivityCategory.DisplayValue" Value="To do" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.ActivityPriority.Caption" Value="Priority" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.ActivityPriority.DisplayValue" Value="ab96fa02-7fe6-df11-971b-001d60e938c6" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.ActivityResult.Caption" Value="Result of activity" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.Application.Caption" Value="Application" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.BertG_BertG_Idea.Caption" Value="Idea" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.BertG_BertG_Idea.DisplayValue" Value="[#Main record.Id#]" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.Case.Caption" Value="Case" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.Change.Caption" Value="Change" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.ConfItem.Caption" Value="Configuration item" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.Contact.Caption" Value="Contact" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.Contact.DisplayValue" Value="[#Main record.Owner#]" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.Contract.Caption" Value="Contract" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.CurrentActivityId.Caption" Value="Task Id" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.Document.Caption" Value="Document" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.Duration.Caption" Value="Duration" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.Duration.DisplayValue" Value="20" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.DurationPeriod.Caption" Value="Duration (period)" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.DurationPeriod.DisplayValue" Value="0" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.Event.Caption" Value="Event" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.ExecutionContext.Caption" Value="Execution context" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.FinApplication.Caption" Value="Application" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.Incident.Caption" Value="Incident" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.InformationOnStep.Caption" Value="Information on step" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.InformationOnStep.DisplayValue" Value="Idea scored low. Review Solution options" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.InformationOnStep.Value" Value="Idea scored low. Review Solution options" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.Invoice.Caption" Value="Invoice" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.IsActivityCompleted.Caption" Value="Activity completed" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.IsActivityCompleted.DisplayValue" Value="false" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.KnowledgeBase.Caption" Value="Knowledge base article" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.Lead.Caption" Value="Lead" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.Listing.Caption" Value="Listings" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.OmniChat.Caption" Value="Chat" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.Opportunity.Caption" Value="Opportunity" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.Order.Caption" Value="Order" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.OwnerId.Caption" Value="Owner" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.OwnerId.DisplayValue" Value="[#Main record.Assignee#]" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.Problem.Caption" Value="Problem" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.Project.Caption" Value="Project" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.Property.Caption" Value="Properties" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.QueueItem.Caption" Value="Queue item" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.Recommendation.Caption" Value="Recommendation" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.Recommendation.DisplayValue" Value="&quot;Review Low Scoring Idea: &quot;+[#Main record.Brief Description#]" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.Release.Caption" Value="Release" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.RemindBefore.Caption" Value="Remind owner in advance" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.RemindBefore.DisplayValue" Value="0" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.RemindBeforePeriod.Caption" Value="Remind owner in advance (period)" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.RemindBeforePeriod.DisplayValue" Value="0" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.Requests.Caption" Value="Request" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.RoleId.Caption" Value="Role" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.ShowExecutionPage.Caption" Value="Show execution page automatically" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.ShowExecutionPage.DisplayValue" Value="false" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.ShowInScheduler.Caption" Value="Show in calendar" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.ShowInScheduler.DisplayValue" Value="false" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.StartIn.Caption" Value="Start executing in" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.StartIn.DisplayValue" Value="0" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.StartInPeriod.Caption" Value="Start executing in (period)" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.StartInPeriod.DisplayValue" Value="0" />
+			<Item Name="Stages.Stage6.Elements.DcmElement5.ProcessFlowElement.Parameters.UsrUsrExpenseReport.Caption" Value="Expense Report" />
+		</Items>
+	</Group>
+</Resources>

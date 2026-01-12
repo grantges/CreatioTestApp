@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.57a41268-8f6b-2d77-bf36-0948a4e045b8.Caption" Value="Make elements read-only: Icon" />
+			<Item Name="Caption" Value="Idea: Send Report Error (Business rules)" />
+		</Items>
+	</Group>
+</Resources>

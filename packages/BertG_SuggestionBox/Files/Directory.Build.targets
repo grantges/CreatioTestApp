@@ -1,0 +1,19 @@
+<Project>
+	<ItemGroup Condition="'$(PkgPath)' != ''">
+		<Compile Remove="$(PkgPath)/BertG_SuggestionBox/Assemblies/**" />
+		<Compile Remove="$(PkgPath)/BertG_SuggestionBox/Data/**" />
+		<Compile Remove="$(PkgPath)/BertG_SuggestionBox/SqlScripts/**" />
+		<Compile Remove="$(PkgPath)/BertG_SuggestionBox/Schemas\**" />
+		<Compile Remove="$(PkgPath)/BertG_SuggestionBox/Resources/**" />
+		<EmbeddedResource Remove="$(PkgPath)/BertG_SuggestionBox/Assemblies/**" />
+		<EmbeddedResource Remove="$(PkgPath)/BertG_SuggestionBox/Data/**" />
+		<EmbeddedResource Remove="$(PkgPath)/BertG_SuggestionBox/SqlScripts/**" />
+		<EmbeddedResource Remove="$(PkgPath)/BertG_SuggestionBox/Schemas/**" />
+		<EmbeddedResource Remove="$(PkgPath)/BertG_SuggestionBox/Resources/**" />
+		<None Remove="$(PkgPath)/BertG_SuggestionBox/Assemblies/**" />
+		<None Remove="$(PkgPath)/BertG_SuggestionBox/Data/**" />
+		<None Remove="$(PkgPath)/BertG_SuggestionBox/SqlScripts/**" />
+		<None Remove="$(PkgPath)/BertG_SuggestionBox/Schemas/**" />
+		<None Remove="$(PkgPath)/BertG_SuggestionBox/Resources/**" />
+  </ItemGroup>
+</Project>

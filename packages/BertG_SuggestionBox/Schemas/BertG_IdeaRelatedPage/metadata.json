@@ -1,0 +1,44 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "AddonSchemaManager",
+      "UId": "b446119c-ee76-4b5b-acc7-eb4b543829c8",
+      "A2": "BertG_IdeaRelatedPage",
+      "A5": "6f71e54c-1960-40c9-94f6-073fd67699ab",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "064bbae3-0690-4604-b410-d217ed1f9d83",
+      "B8": "0.0.0.0",
+      "AD1": "0d206af0-c15b-48e2-bfda-053f939c824d",
+      "AD2": "EntitySchemaManager",
+      "AD3": "RelatedPage",
+      "AD5": "3a2d6f51-1bfc-4c17-aacb-b53de4866b7c",
+      "AD4": {
+  "Pages": [
+    {
+      "UId": "f191ecf8-220c-947f-7445-ac41e353e866",
+      "PageSchemaUId": "00a7fa0e-08a2-4a97-b95b-50669f32d7c3",
+      "IsDefault": false,
+      "IsSspDefault": false,
+      "Actions": {
+        "Add": true
+      },
+      "Role": null,
+      "TypeColumnValue": null
+    },
+    {
+      "UId": "fccfadd9-c4e5-708e-36a6-619bf6df7d47",
+      "PageSchemaUId": "00a7fa0e-08a2-4a97-b95b-50669f32d7c3",
+      "IsDefault": true,
+      "IsSspDefault": false,
+      "Actions": null,
+      "Role": null,
+      "TypeColumnValue": null
+    }
+  ],
+  "TypeColumnUId": "cc2780f5-e5f8-4517-a5b9-97156ea1f02b"
+}
+    }
+  }
+}

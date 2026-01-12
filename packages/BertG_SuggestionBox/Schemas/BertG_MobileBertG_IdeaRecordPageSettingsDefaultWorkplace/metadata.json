@@ -1,0 +1,43 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "ClientUnitSchemaManager",
+      "UId": "4fb998c5-c5cd-408b-aba3-2bb406d036ae",
+      "A2": "BertG_MobileBertG_IdeaRecordPageSettingsDefaultWorkplace",
+      "A5": "6adf3f2e-fc09-4eee-b7e2-f9df020a9cc9",
+      "B1": [],
+      "B2": [
+        {
+          "UId": "0cf174c8-d0da-41d6-9ed1-f480a4ba53f6",
+          "A2": "SocialMessageDetailCaptionBertG_Idea_caption",
+          "A3": "4fb998c5-c5cd-408b-aba3-2bb406d036ae",
+          "A4": "4fb998c5-c5cd-408b-aba3-2bb406d036ae",
+          "A5": "6adf3f2e-fc09-4eee-b7e2-f9df020a9cc9"
+        },
+        {
+          "UId": "202e2ed3-8bcc-43f6-8cb0-1f8e08354785",
+          "A2": "AttachmentsDetailCaptionBertG_Idea_caption",
+          "A3": "4fb998c5-c5cd-408b-aba3-2bb406d036ae",
+          "A4": "4fb998c5-c5cd-408b-aba3-2bb406d036ae",
+          "A5": "6adf3f2e-fc09-4eee-b7e2-f9df020a9cc9"
+        },
+        {
+          "UId": "3baf8c94-7573-431d-a4f4-7f48ab2acb79",
+          "A2": "primaryColumnSetBertG_Idea_caption",
+          "A3": "4fb998c5-c5cd-408b-aba3-2bb406d036ae",
+          "A4": "4fb998c5-c5cd-408b-aba3-2bb406d036ae",
+          "A5": "6adf3f2e-fc09-4eee-b7e2-f9df020a9cc9"
+        }
+      ],
+      "B3": [],
+      "B6": "064bbae3-0690-4604-b410-d217ed1f9d83",
+      "B8": "8.3.1.4481",
+      "HD1": "50e3acc0-26fc-4237-a095-849a1d534bd3",
+      "HD6": "null",
+      "HD5": [],
+      "HD7": [],
+      "HD8": [],
+      "HD11": []
+    }
+  }
+}

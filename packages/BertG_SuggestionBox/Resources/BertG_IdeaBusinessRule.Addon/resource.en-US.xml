@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.1e3d101d-13c2-6dcf-3727-0aa4ab8591b7.Caption" Value="Apply static filter: Assignee" />
+			<Item Name="Caption" Value="Idea (Business rules)" />
+		</Items>
+	</Group>
+</Resources>

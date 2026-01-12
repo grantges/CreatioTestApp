@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.0f6c5737-c49e-073c-1446-f232ec647b30.Caption" Value="Comment Mandatory if low score" />
+			<Item Name="AddonConfig.Rules.12178a8b-9c47-1300-f040-a954448fd780.Caption" Value="Show Solution for HR Assignee" />
+			<Item Name="AddonConfig.Rules.32aca54c-75a9-3b24-18e4-935ca2ac3395.Caption" Value="Show Solution Tab for Scoring" />
+			<Item Name="AddonConfig.Rules.68bd03af-0c56-9327-52bc-0baa660e4ae7.Caption" Value="Show Solution Tab" />
+			<Item Name="AddonConfig.Rules.9eb92af7-8e9c-2bbc-cc45-4b5ed68f5c9b.Caption" Value="Show elements: Expense Report Buttons" />
+			<Item Name="AddonConfig.Rules.ad7b48fe-58f8-9b61-bd76-f20a55fcbf5f.Caption" Value="Restrict Editing" />
+			<Item Name="AddonConfig.Rules.d4e933e8-ba68-3906-eb97-28b0a3a63f38.Caption" Value="Show elements: Add Expense" />
+			<Item Name="Caption" Value="Idea edit page (Business rules)" />
+		</Items>
+	</Group>
+</Resources>

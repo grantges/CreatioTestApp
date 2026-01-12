@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Idea Stage" />
+			<Item Name="Columns.BertG_End.Caption" Value="End" />
+			<Item Name="Columns.BertG_Number.Caption" Value="Number" />
+			<Item Name="Columns.BertG_ShowInFunnel.Caption" Value="Show in Funnel" />
+			<Item Name="Columns.BertG_Successful.Caption" Value="Successful" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1253567487.Caption" Value="Pool 14675678567" />
+		</Items>
+	</Group>
+</Resources>

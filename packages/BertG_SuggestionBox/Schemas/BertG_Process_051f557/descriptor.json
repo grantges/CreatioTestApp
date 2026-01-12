@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "25c5b199-8c89-4545-bfa8-3d70d4401102",
+    "Name": "BertG_Process_051f557",
+    "ModifiedOnUtc": "\/Date(1767195377000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Update Status Based on Idea Score",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "ae050f77-6b18-4e62-8cf2-8ff39a7655dd",
+    "Name": "BertG_Case_f91809e",
+    "ModifiedOnUtc": "\/Date(1767111405000)\/",
+    "Parent": {
+      "UId": "e66f919d-1a69-44e2-a1e6-e5dfcd3f234a",
+      "Name": "BertG_Case_34de034"
+    },
+    "ManagerName": "DcmSchemaManager",
+    "Caption": "Suggestion Box Workflow",
+    "DependsOn": []
+  }
+}

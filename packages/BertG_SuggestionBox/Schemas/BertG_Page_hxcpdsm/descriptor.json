@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "b224577a-b1b8-412e-9dcb-3813554f573b",
+    "Name": "BertG_Page_hxcpdsm",
+    "ModifiedOnUtc": "\/Date(1767185122000)\/",
+    "Parent": {
+      "UId": "ecdcc8ff-272c-4957-9381-7d74ce17e140",
+      "Name": "BaseMiniPageTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Idea Scoring",
+    "DependsOn": []
+  }
+}

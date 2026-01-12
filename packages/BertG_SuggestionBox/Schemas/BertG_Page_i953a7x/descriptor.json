@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "166ef68f-8768-45de-9bdc-1069773045a9",
+    "Name": "BertG_Page_i953a7x",
+    "ModifiedOnUtc": "\/Date(1766938872000)\/",
+    "Parent": {
+      "UId": "ecdcc8ff-272c-4957-9381-7d74ce17e140",
+      "Name": "BaseMiniPageTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Idea: Send Report Error",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="tr-TR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="BertG_MobileBertG_IdeaRecordPageSettingsDefaultWorkplace" />
+			<Item Name="LocalizableStrings.AttachmentsDetailCaptionBertG_Idea_caption.Value" Value="Attachments" />
+			<Item Name="LocalizableStrings.primaryColumnSetBertG_Idea_caption.Value" Value="General information" />
+			<Item Name="LocalizableStrings.SocialMessageDetailCaptionBertG_Idea_caption.Value" Value="Feed" />
+		</Items>
+	</Group>
+</Resources>

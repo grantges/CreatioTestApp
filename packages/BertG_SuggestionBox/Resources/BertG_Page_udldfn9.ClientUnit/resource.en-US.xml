@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Idea edit page" />
+			<Item Name="LocalizableStrings.addRecord_aujc12v_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_gafsw46_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_rk457rk_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_vj4o6cg_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_x12dxss_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_yl4xcdl_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.Button_vw5ohih_caption.Value" Value="Send Report" />
+			<Item Name="LocalizableStrings.Button_vwieqrb_caption.Value" Value="Print Report" />
+			<Item Name="LocalizableStrings.ComboBox_zi0ph95_label.Value" Value="Approver" />
+			<Item Name="LocalizableStrings.ExpansionPanel_4e9yfkt_title.Value" Value="Expenses" />
+			<Item Name="LocalizableStrings.ExpansionPanel_au18ylr_title.Value" Value="Activities" />
+			<Item Name="LocalizableStrings.GeneralInfoTab_caption.Value" Value="Activities" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_AddExepnse_caption.Value" Value="Add Expense" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_p6b70qg_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_f5p5gd4_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_ji73d4c_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_ehiiyk5_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_g5sz9gb_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_379y9rb_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_a4ce4q8_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_jzi8q0n_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_wxtq6ix_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_ExpenseDetailMenu_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_o9w785p_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.IndicatorWidget_98dzs9h_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.IndicatorWidget_98dzs9h_title.Value" Value="Expense Count" />
+			<Item Name="LocalizableStrings.IndicatorWidget_ha0cz4n_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.IndicatorWidget_ha0cz4n_title.Value" Value="Total Expenses" />
+			<Item Name="LocalizableStrings.Input_1gyxbma_label.Value" Value="SUGGESTION ID" />
+			<Item Name="LocalizableStrings.Input_pvo6wk0_label.Value" Value="Idea" />
+			<Item Name="LocalizableStrings.Label_be7raiv_caption.Value" Value="Related Costs" />
+			<Item Name="LocalizableStrings.TabContainer_6re6x94_caption.Value" Value="Expenses" />
+			<Item Name="LocalizableStrings.TabContainer_k2h03d1_caption.Value" Value="Solution" />
+			<Item Name="Parameters.13b77196-0410-4864-adf9-53c0f521b1c0.Caption" Value="Number 1" />
+		</Items>
+	</Group>
+</Resources>

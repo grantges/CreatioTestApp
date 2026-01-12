@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Idea" />
+			<Item Name="Columns.BertG_Assignee.Caption" Value="Assignee" />
+			<Item Name="Columns.BertG_Author.Caption" Value="Author" />
+			<Item Name="Columns.BertG_BriefDescription.Caption" Value="Brief Description" />
+			<Item Name="Columns.BertG_BriefDescription.Description" Value="Provide a brief description or summary of your idea" />
+			<Item Name="Columns.BertG_ContactPerson.Caption" Value="Contact Person" />
+			<Item Name="Columns.BertG_Description.Caption" Value="Description" />
+			<Item Name="Columns.BertG_Description.Description" Value="Description of your idea" />
+			<Item Name="Columns.BertG_ExpenseTotal.Caption" Value="Expense Total" />
+			<Item Name="Columns.BertG_Number.Caption" Value="Number" />
+			<Item Name="Columns.BertG_Owner.Caption" Value="Owner" />
+			<Item Name="Columns.BertG_Status.Caption" Value="Status" />
+			<Item Name="Columns.BertG_Type.Caption" Value="Type" />
+			<Item Name="Columns.BertG_Type.Description" Value="The idea type category" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Ideas Desktop" />
+			<Item Name="LocalizableStrings.ChartWidget_b97fkjg_series_0.Value" Value="Idea" />
+			<Item Name="LocalizableStrings.ChartWidget_b97fkjg_title.Value" Value="Idea Pipeline" />
+			<Item Name="LocalizableStrings.ChartWidget_e8yjjc6_series_1.Value" Value="Idea" />
+			<Item Name="LocalizableStrings.ChartWidget_x83ygo8_series_0.Value" Value="Idea" />
+			<Item Name="LocalizableStrings.ChartWidget_x83ygo8_title.Value" Value="Ideas By Type" />
+			<Item Name="LocalizableStrings.IndicatorWidget_8c79ipl_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.IndicatorWidget_8c79ipl_title.Value" Value="My Idea Total" />
+			<Item Name="LocalizableStrings.IndicatorWidget_rvthsfc_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.IndicatorWidget_rvthsfc_title.Value" Value="Total Expenses" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "c1cfb5a8-a3f8-4c56-ae71-a99962b5d4fe",
+    "Name": "BertG_ScheduleActivities",
+    "ModifiedOnUtc": "\/Date(1767282925000)\/",
+    "Parent": {
+      "UId": "ecdcc8ff-272c-4957-9381-7d74ce17e140",
+      "Name": "BaseMiniPageTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Schedule Activities",
+    "DependsOn": []
+  }
+}

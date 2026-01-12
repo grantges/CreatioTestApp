@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ApprovalUserTask1.Caption" Value="Submit Idea for Approval" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.ApprovalSchemaUId.Caption" Value="Approval object" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.ApproverEmailTemplate.Caption" Value="Email template for the approver" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.ApproverType.Caption" Value="Approver type" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.ApproverType.DisplayValue" Value="User" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.AuthorEmailAddress.Caption" Value="Recipient" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.AuthorEmailTemplate.Caption" Value="Email template for the author" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.CurrentApprovalId.Caption" Value="Current Approval Id" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.EmployeeId.Caption" Value="Employee" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.EmployeeId.DisplayValue" Value="[#Approver Id#]" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.EntitySchemaUId.Caption" Value="Object" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.EntitySchemaUId.DisplayValue" Value="0d206af0-c15b-48e2-bfda-053f939c824d" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.IgnoreEmailErrors.Caption" Value="Ignore email sending errors" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.IgnoreEmailErrors.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.IsAllowedToDelegate.Caption" Value="Approval may be delegated" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.IsAllowedToDelegate.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.IsRequiredDigitalSignature.Caption" Value="Digital signature required" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.IsSendEmailToApprovers.Caption" Value="Send email to the approvers" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.IsSendEmailToApprovers.DisplayValue" Value="false" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.IsSendEmailToAuthor.Caption" Value="Send email to the author" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.IsSendEmailToAuthor.DisplayValue" Value="false" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.MasterColumnUId.Caption" Value="Master column" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.Purpose.Caption" Value="Approval purpose" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.Purpose.DisplayValue" Value="Approval required" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.Purpose.Value" Value="Approval required" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.RecordId.Caption" Value="Record Id" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.RecordId.DisplayValue" Value="[#Idea#]" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.ResultParameter.Caption" Value="Result parameter" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.RoleId.Caption" Value="Role" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.SectionId.Caption" Value="Section" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.SectionId.DisplayValue" Value="bb1e97a3-2c65-487f-8903-f5d817d7c3b2" />
+			<Item Name="Caption" Value="Idea:: Approval Required" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="NotificationCaption.Caption" Value="Process instance caption" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+			<Item Name="Parameters.ApproverId.Caption" Value="Approver Id" />
+			<Item Name="Parameters.Idea.Caption" Value="Idea" />
+			<Item Name="Parameters.Idea.DisplayValue" Value="[#Submit Idea for Approval.Record Id#]" />
+		</Items>
+	</Group>
+</Resources>

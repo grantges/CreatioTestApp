@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "1bdedfb5-7a50-4d90-8671-42a483eafcd6",
+    "Name": "BertG_Process_da4a0e1",
+    "ModifiedOnUtc": "\/Date(1767198256000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Idea:: Approval Required",
+    "DependsOn": []
+  }
+}

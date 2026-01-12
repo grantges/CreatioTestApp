@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "f0fc5149-ec82-486d-8228-ebbbaba8bb4c",
+    "Name": "BertG_Entity_IdeaActivityRelatedPage",
+    "ModifiedOnUtc": "\/Date(1767155327000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Idea Activity (Page settings)",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Idea Solution" />
+			<Item Name="Columns.BertG_Comment.Caption" Value="Comment" />
+			<Item Name="Columns.BertG_IdeaId.Caption" Value="Idea Id" />
+			<Item Name="Columns.BertG_Score.Caption" Value="Score" />
+			<Item Name="Columns.BertG_Solution.Caption" Value="Solution" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1253567487.Caption" Value="Pool 14675678567" />
+		</Items>
+	</Group>
+</Resources>

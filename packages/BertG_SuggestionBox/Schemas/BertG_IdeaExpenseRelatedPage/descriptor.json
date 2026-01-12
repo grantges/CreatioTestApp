@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "754eda81-1d44-43a3-a7ac-e43520899b2f",
+    "Name": "BertG_IdeaExpenseRelatedPage",
+    "ModifiedOnUtc": "\/Date(1766270879000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Idea Expense (Page settings)",
+    "DependsOn": []
+  }
+}
