@@ -228,7 +228,7 @@ define("BertG_Page_udldfn9", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHE
 					"listActions": [],
 					"tooltip": "",
 					"control": "$BertG_IdeaDS_BertG_Author_v13psze",
-					"visible": true,
+					"visible": false,
 					"readonly": true,
 					"placeholder": ""
 				},
