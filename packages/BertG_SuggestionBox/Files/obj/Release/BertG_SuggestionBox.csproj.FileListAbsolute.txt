@@ -1,9 +1,0 @@
-D:\App\11008760-demo\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\BertG_SuggestionBox\Files\Bin\BertG_SuggestionBox.dll
-D:\App\11008760-demo\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\BertG_SuggestionBox\Files\Bin\BertG_SuggestionBox.pdb
-D:\App\11008760-demo\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\BertG_SuggestionBox\Files\obj\Release\BertG_SuggestionBox.csproj.AssemblyReference.cache
-D:\App\11008760-demo\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\BertG_SuggestionBox\Files\obj\Release\BertG_SuggestionBox.GeneratedMSBuildEditorConfig.editorconfig
-D:\App\11008760-demo\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\BertG_SuggestionBox\Files\obj\Release\BertG_SuggestionBox.AssemblyInfoInputs.cache
-D:\App\11008760-demo\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\BertG_SuggestionBox\Files\obj\Release\BertG_SuggestionBox.AssemblyInfo.cs
-D:\App\11008760-demo\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\BertG_SuggestionBox\Files\obj\Release\BertG_SuggestionBox.csproj.CoreCompileInputs.cache
-D:\App\11008760-demo\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\BertG_SuggestionBox\Files\obj\Release\BertG_SuggestionBox.dll
-D:\App\11008760-demo\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\BertG_SuggestionBox\Files\obj\Release\BertG_SuggestionBox.pdb
