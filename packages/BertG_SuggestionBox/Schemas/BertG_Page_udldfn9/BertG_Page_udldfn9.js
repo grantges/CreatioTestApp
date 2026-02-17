@@ -300,12 +300,54 @@ define("BertG_Page_udldfn9", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHE
 			},
 			{
 				"operation": "insert",
+				"name": "ComboBox_6ouw8jq",
+				"values": {
+					"type": "crt.ComboBox",
+					"label": "$Resources.Strings.BertG_IdeaDS_BertG_Assignee_y3pr5od",
+					"ariaLabel": "",
+					"isAddAllowed": true,
+					"showValueAsLink": true,
+					"labelPosition": "auto",
+					"controlActions": [],
+					"listActions": [],
+					"tooltip": "",
+					"control": "$BertG_IdeaDS_BertG_Assignee_y3pr5od",
+					"layoutConfig": {
+						"column": 1,
+						"colSpan": 1,
+						"row": 5,
+						"rowSpan": 1
+					}
+				},
+				"parentName": "SideAreaProfileContainer",
+				"propertyName": "items",
+				"index": 4
+			},
+			{
+				"operation": "insert",
+				"name": "addRecord_vn8mdu8",
+				"values": {
+					"code": "addRecord",
+					"type": "crt.ComboboxSearchTextAction",
+					"icon": "combobox-add-new",
+					"caption": "#ResourceString(addRecord_vn8mdu8_caption)#",
+					"clicked": {
+						"request": "crt.CreateRecordFromLookupRequest",
+						"params": {}
+					}
+				},
+				"parentName": "ComboBox_6ouw8jq",
+				"propertyName": "listActions",
+				"index": 0
+			},
+			{
+				"operation": "insert",
 				"name": "ComboBox_lno5mek",
 				"values": {
 					"layoutConfig": {
 						"column": 1,
 						"colSpan": 1,
-						"row": 5,
+						"row": 6,
 						"rowSpan": 1
 					},
 					"type": "crt.ComboBox",
@@ -321,7 +363,7 @@ define("BertG_Page_udldfn9", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHE
 				},
 				"parentName": "SideAreaProfileContainer",
 				"propertyName": "items",
-				"index": 4
+				"index": 5
 			},
 			{
 				"operation": "insert",
@@ -1825,6 +1867,24 @@ define("BertG_Page_udldfn9", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHE
 						}
 					},
 					"BertG_IdeaDS_BertG_Status_wd8ywt6_List": {
+						"isCollection": true,
+						"modelConfig": {
+							"sortingConfig": {
+								"default": [
+									{
+										"columnName": "Name",
+										"direction": "asc"
+									}
+								]
+							}
+						}
+					},
+					"BertG_IdeaDS_BertG_Assignee_y3pr5od": {
+						"modelConfig": {
+							"path": "BertG_IdeaDS.BertG_Assignee"
+						}
+					},
+					"BertG_IdeaDS_BertG_Assignee_y3pr5od_List": {
 						"isCollection": true,
 						"modelConfig": {
 							"sortingConfig": {
