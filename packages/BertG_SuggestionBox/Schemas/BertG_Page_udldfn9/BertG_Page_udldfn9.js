@@ -497,7 +497,7 @@ define("BertG_Page_udldfn9", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHE
 			},
 			{
 				"operation": "insert",
-				"name": "GridContainer_dsef81i",
+				"name": "GridContainer_s6z62az",
 				"values": {
 					"layoutConfig": {
 						"column": 1,
@@ -531,6 +531,108 @@ define("BertG_Page_udldfn9", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHE
 				"parentName": "GridContainer_sye1flu",
 				"propertyName": "items",
 				"index": 2
+			},
+			{
+				"operation": "insert",
+				"name": "DateTimePicker_bpti177",
+				"values": {
+					"layoutConfig": {
+						"column": 1,
+						"colSpan": 1,
+						"row": 1,
+						"rowSpan": 1
+					},
+					"type": "crt.DateTimePicker",
+					"label": "$Resources.Strings.BertG_Entity_IdeaActivityDS_CreatedOn_ldfg53v",
+					"placeholder": "",
+					"readonly": false,
+					"labelPosition": "auto",
+					"tooltip": "",
+					"pickerType": "datetime",
+					"control": "$BertG_Entity_IdeaActivityDS_CreatedOn_ldfg53v"
+				},
+				"parentName": "GridContainer_s6z62az",
+				"propertyName": "items",
+				"index": 0
+			},
+			{
+				"operation": "insert",
+				"name": "ComboBox_aq3bpw9",
+				"values": {
+					"layoutConfig": {
+						"column": 2,
+						"colSpan": 1,
+						"row": 1,
+						"rowSpan": 1
+					},
+					"type": "crt.ComboBox",
+					"label": "$Resources.Strings.BertG_Entity_IdeaActivityDS_CreatedBy_0ap8dl4",
+					"ariaLabel": "",
+					"isAddAllowed": true,
+					"showValueAsLink": true,
+					"labelPosition": "auto",
+					"controlActions": [],
+					"listActions": [],
+					"tooltip": "",
+					"control": "$BertG_Entity_IdeaActivityDS_CreatedBy_0ap8dl4"
+				},
+				"parentName": "GridContainer_s6z62az",
+				"propertyName": "items",
+				"index": 1
+			},
+			{
+				"operation": "insert",
+				"name": "addRecord_7udcjyw",
+				"values": {
+					"code": "addRecord",
+					"type": "crt.ComboboxSearchTextAction",
+					"icon": "combobox-add-new",
+					"caption": "#ResourceString(addRecord_7udcjyw_caption)#",
+					"clicked": {
+						"request": "crt.CreateRecordFromLookupRequest",
+						"params": {}
+					}
+				},
+				"parentName": "ComboBox_aq3bpw9",
+				"propertyName": "listActions",
+				"index": 0
+			},
+			{
+				"operation": "insert",
+				"name": "GridContainer_dsef81i",
+				"values": {
+					"layoutConfig": {
+						"column": 1,
+						"colSpan": 1,
+						"row": 5,
+						"rowSpan": 1
+					},
+					"type": "crt.GridContainer",
+					"columns": [
+						"minmax(32px, 1fr)",
+						"minmax(32px, 1fr)"
+					],
+					"rows": "minmax(max-content, 32px)",
+					"gap": {
+						"columnGap": "large",
+						"rowGap": "none"
+					},
+					"items": [],
+					"fitContent": true,
+					"visible": true,
+					"color": "transparent",
+					"borderRadius": "none",
+					"padding": {
+						"top": "none",
+						"right": "none",
+						"bottom": "none",
+						"left": "none"
+					},
+					"alignItems": "stretch"
+				},
+				"parentName": "GridContainer_sye1flu",
+				"propertyName": "items",
+				"index": 3
 			},
 			{
 				"operation": "insert",
@@ -1836,6 +1938,20 @@ define("BertG_Page_udldfn9", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHE
 								]
 							}
 						}
+					},
+					"BertG_Entity_IdeaActivityDS_CreatedOn_ldfg53v": {
+						"modelConfig": {
+							"path": "BertG_Entity_IdeaActivityDS.CreatedOn"
+						}
+					},
+					"BertG_Entity_IdeaActivityDS_CreatedBy_0ap8dl4": {
+						"modelConfig": {
+							"path": "BertG_Entity_IdeaActivityDS.CreatedBy"
+						}
+					},
+					"BertG_Entity_IdeaActivityDS_CreatedBy_0ap8dl4_List": {
+						"isCollection": true,
+						"modelConfig": {}
 					}
 				}
 			}
